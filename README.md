@@ -21,14 +21,17 @@ If you plan to host it publicly, feel free to contact me, and I'll add a link he
 ## Installation
 1. Set up a web server with PHP support and add the folder `public/` from the repo
 2. Configure your email settings in `public/backend/send.php`
+
 You should be able to access the site through the Wii U's web browser and send screenshots!
 
 
 ## Potential issues
 If emails are not being sent or are being bounced back, check your server logs for potential errors (as the PHP `mail` function does not provide detailed feedback).
 A common cause is the domain not having the required DNS TXT records:
+
 - [SPF](https://support.google.com/a/answer/33786)
 - [DKIM](https://support.google.com/a/answer/174124)
+
 Configuring these records properly should resolve most email delivery issues.
 
 
