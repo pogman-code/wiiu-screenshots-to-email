@@ -5,6 +5,7 @@ The frontend was built to be as fast, intuitive and user-friendly as possible, c
 
 ![Preview](https://raw.githubusercontent.com/marcrobledo/wiiu-screenshots-to-email/refs/heads/main/preview.png)
 
+*This works with any Wii U console, **no modification required**!*
 
 ## Background
 During the Wii U era, the console featured a service that allowed users to post their favorite game moment screenshots to social networks. It was some kind of workaround, though, it relied on a simple website accessible via the console's browser, since the console lacked a dedicated app for such task. Sadly, the service was discontinued by Nintendo after the console's commercial failure.
